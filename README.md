@@ -87,5 +87,3 @@ require(['PhotoClip'], function(PhotoClip) {
 
 
 
-# 您的捐助是我最大的动力
-![image](https://github.com/baijunjie/PhotoClip.js/blob/master/donations.jpg)
